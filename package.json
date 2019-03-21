@@ -21,6 +21,6 @@
 	"dependencies": {
 		"electron-prebuilt": "^0.35.4",
 		"electron-builder": "^2.4.0",
-		"electron-packager": "^7.0.0"
+		"electron-packager": "~>7.0.0."
 	}
 }
